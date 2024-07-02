@@ -1,0 +1,2 @@
+C:\Users\shimo\Desktop\プログラミング言語\ソースコード\C++\Maze\x64\Debug\Maze.exe
+G:\その他のパソコン\マイ ノートパソコン\プログラミング言語\ソースコード\C++\Maze\x64\Debug\Maze.exe
